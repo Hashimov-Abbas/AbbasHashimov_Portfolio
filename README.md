@@ -1,5 +1,6 @@
 # AbbasHashimov_Portfolio
 Welcome to my portfolio! This repository contains a selection of my work, demonstrating my skills, knowledge, and experience.
+Most of the projects correspond to those displayed on my CV
 This portfolio showcases my work in areas such as:
 
 Data analysis and visualization
