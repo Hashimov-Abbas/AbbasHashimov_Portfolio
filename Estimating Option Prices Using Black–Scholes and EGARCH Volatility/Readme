@@ -1,0 +1,4 @@
+This project investigates and forecasts the volatility dynamics of the S&P 500 using a family of GARCH and EGARCH models.
+
+Using the predicted volatility, we then applied the Black-Scholes equation to estimate option prices. 
+Finally, we compared these estimates with actual market prices, achieving close alignment with real-world option values.
