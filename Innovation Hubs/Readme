@@ -1,0 +1,5 @@
+This project applies several econometric techniques -
+including Difference-in-Differences (DiD), Instrumental Variables (IV), and Regression Discontinuity Design (RDD) - 
+to analyze the impact of local innovation hubs established across the UK on the creation of new successful businesses.
+
+The analysis estimates that the presence of these innovation hubs increases the probability of an individual starting a business by approximately 5%.
