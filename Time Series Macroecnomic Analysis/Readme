@@ -1,0 +1,14 @@
+This project consists of three parts, focused on forecasting cumulative GDP growth:
+
+Replication: We replicate the results from Table 17.3 in Stock and Watson, Introduction to Econometrics (4th Edition, Global Edition), 
+producing forecasts of cumulative GDP growth using different econometric models.
+
+Random Walk Comparison: We generate forecasts using a random walk model and compare them with the models from Part 1.
+
+Improved Forecasting: We introduce a new predictor — 10-year government bond yield — to enhance long-term GDP growth forecasts.
+
+Key Findings:
+
+GDP growth behaves closely to a random walk.
+
+Including the 10-year government bond yield significantly improves long-term forecasts.
